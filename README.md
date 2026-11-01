@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt">
-<head> 
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minha Cantina - SENAI</title>
@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Cantina Escolar</h1>
-        <p>BOA-TARDE ao sistema da cantina!</p>
+        <p>Bem-vindo ao sistema da cantina!</p>
     </header>
     <main>
         <section>
