@@ -9,7 +9,7 @@
 <body>
     <header>
         <h1>Cantina Escolar</h1>
-        <p>BOA-TARDE ao sistema da cantina!</p>
+        <p>Bem-vindo ao sistema da cantina!</p>
     </header>
     <main>
         <section>
